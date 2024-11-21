@@ -1,0 +1,10 @@
+1,quả chôm chôm,10000
+2,quả cam,8000
+3,quả chuối,15000
+4,quả dưa hấu,5000
+5,quả lê,12000
+6,quả dâu tây,7000
+7,quả kiwi,9000
+8,quả bưởi,6000
+9,quả xoài,11000
+10,quả nho,13000
